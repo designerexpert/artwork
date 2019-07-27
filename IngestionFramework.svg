@@ -1,0 +1,45 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4C495F;}
+	.st1{fill:#9693B6;}
+	.st2{fill:#383548;}
+	.st3{fill:#B0ACD5;}
+	.st4{fill:#262233;}
+	.st5{fill:#FFFFFF;}
+</style>
+<g id="IngestionFrameworkLogo">
+	<g>
+		<polygon class="st0" points="425.3,361.9 481.8,311 481.8,378.8 425,441.4"/>
+		<polygon points="425.3,361.9 359.6,327.6 359.6,400 425,441.4"/>
+		<polygon class="st1" points="481.8,311 420.3,285.5 359.6,327.6 425.3,361.9"/>
+	</g>
+	<g>
+		<polygon class="st2" points="171.8,457.9 368.3,321.6 368.3,34.7 171.8,47.4"/>
+		<polygon class="st3" points="171.8,47.4 171.8,457.9 26,304.5 26,33.1"/>
+		<polygon class="st1" points="26,33.1 230.7,28 368.3,34.7 171.8,47.4"/>
+	</g>
+	<polygon class="st1" points="368.3,221.4 425.3,194 368.3,178.3"/>
+	<polygon class="st4" points="292.6,163.4 368.3,139.6 306.9,126.5 230.7,144.6"/>
+	<polygon class="st0" points="292.6,163.4 292.6,585.1 368.3,503.9 368.3,139.6"/>
+	<polygon class="st0" points="292.6,59.2 481.8,39.6 481.8,99.8 292.6,151.3"/>
+	<polygon class="st0" points="425.3,194 340.5,234.8 340.5,328.8 425.3,272"/>
+	<polygon class="st3" points="292.6,151.3 230.7,134.6 230.7,53.2 292.6,59.2"/>
+	<polygon class="st3" points="292.6,163.4 230.7,144.6 230.7,520 292.6,585.1"/>
+	<polyline class="st1" points="230.7,53.2 427.7,37.1 481.8,39.6 292.6,59.2"/>
+	<polygon class="st0" points="529.6,34.7 529.6,88 565.1,78.5 565.1,31.2"/>
+	<polygon class="st0" points="559.7,130.5 559.7,181.7 585.5,165 585.5,118.3"/>
+	<polygon class="st0" points="529.6,267.9 529.6,326.2 559.7,293 559.7,240.7"/>
+	<polygon points="529.6,326.2 529.6,267.9 472.9,249 472.9,303.1"/>
+	<polygon class="st1" points="472.9,249 506.8,225.5 559.7,240.7 529.6,267.9"/>
+	<polygon points="509.9,122.9 509.9,170.9 559.7,181.7 559.7,130.5"/>
+	<g>
+		<polygon class="st0" points="481.8,167.3 481.8,234.3 520.4,208.5 520.4,149.1"/>
+		<polygon points="481.8,167.3 425.3,155 425.3,216.8 481.8,234.3"/>
+		<polygon class="st1" points="425.3,155 466.9,139.2 520.4,149.1 481.8,167.3"/>
+	</g>
+	<polygon class="st1" points="509.9,122.9 559.7,130.5 585.5,118.3 538.5,112"/>
+	<polyline points="529.6,88 487.6,83.6 487.6,33.2 529.6,34.7 529.6,88.7"/>
+	<polyline class="st1" points="529.6,34.7 565.1,31.2 534.2,30.2 487.6,33.2"/>
+	<line class="st5" x1="292.6" y1="585.1" x2="230.7" y2="520"/>
+</g>
+</svg>
